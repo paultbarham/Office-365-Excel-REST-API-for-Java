@@ -2,4 +2,4 @@
 This is the sample application of Excel REST API for Java
 
 The demonstration of this sample application.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdS7VPOzU0M" frameborder="0" allowfullscreen></iframe>
+[![ScreenShot](https://c1.staticflickr.com/9/8067/28712261724_720613c615.jpg)](https://youtu.be/rdS7VPOzU0M)
